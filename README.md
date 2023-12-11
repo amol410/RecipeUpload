@@ -2,7 +2,7 @@ Here I have given Functionality to Upload & Delete the files
 
 Person can upload the recipe file, it's description along with recipe name
 
-once its uploaded it will show on the same page at the bottom of the page 
+once its uploaded it will show on the same page at the bottom
 
 I have also given the option to delete the recipe
 
